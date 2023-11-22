@@ -38,7 +38,3 @@ This simple Python program allows you to convert currency using real-time exchan
 4. Follow the on-screen instructions to perform currency conversion.
 
 Feel free to contribute or use this as a base for your currency conversion needs!
-
-## Dependencies
-
-- [Requests](https://docs.python-requests.org/en/latest/)
